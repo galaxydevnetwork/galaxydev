@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://galaxydevnetwork.github.io/blog</id>
+    <title>GalaxyDev Blog</title>
+    <updated>2022-08-06T10:12:59.573Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="http://galaxydevnetwork.github.io/blog"/>
+    <subtitle>GalaxyDev Blog</subtitle>
+    <icon>http://galaxydevnetwork.github.io/https://cdn.discordapp.com/avatars/628211722460725279/ee3cff0a45c5d5f9a1b6edcddde53edc.webp</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome!]]></title>
+        <id>/first</id>
+        <link href="http://galaxydevnetwork.github.io/blog/first"/>
+        <updated>2022-08-06T10:12:59.573Z</updated>
+        <summary type="html"><![CDATA[Welcome to the blog for GalaxyDev, this could be a replacement for the GalaxyDevNetwork Blog, but this is the first blog for GalaxyDev, this will where update logs or just some random things.]]></summary>
+        <content type="html"><![CDATA[<p>Welcome to the blog for GalaxyDev, this could be a replacement for the GalaxyDevNetwork Blog, but this is the first blog for GalaxyDev, this will where update logs or just some random things.</p><p>Stay tuned for more posts in here</p>]]></content>
+        <author>
+            <name>GalaxyDevel0per</name>
+            <uri>https://github.com/galaxy202</uri>
+        </author>
+        <category label="Blogs" term="Blogs"/>
+    </entry>
+</feed>
